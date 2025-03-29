@@ -75,4 +75,4 @@ python Breast_Cancer_Prediction.py
 
 ---
 
-**Follow me on**: [LinkedIn](https://www.linkedin.com/in/moustafa-mohamed-047736296/) | [GitHub](https://github.com/MoustafaMohamed01)  
+**Follow me on**: [LinkedIn](https://www.linkedin.com/in/moustafa-mohamed-047736296/) | [GitHub](https://github.com/MoustafaMohamed01) | [Kaggle](https://www.kaggle.com/moustafamohamed01)
