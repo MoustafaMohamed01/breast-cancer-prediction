@@ -14,10 +14,10 @@ This project implements a **binary classification model** using **PyTorch** and 
 ## Results  
 
 ### **Training Accuracy Curve**  
-![Training Accuracy Curve](training_accuracy_curve.png)
+![Training Accuracy Curve](images/training_accuracy_curve.png)
 
 ### **Training Loss Curve**  
-![Training Loss Curve](training_loss_curve.png)
+![Training Loss Curve](images/training_loss_curve.png)
 
 ---
 
